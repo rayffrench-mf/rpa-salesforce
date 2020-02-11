@@ -2,7 +2,7 @@ namespace: Salesforce
 flow:
   name: Order_flow
   inputs:
-    - username
+    - username: ray
     - password:
         sensitive: true
     - account_name
