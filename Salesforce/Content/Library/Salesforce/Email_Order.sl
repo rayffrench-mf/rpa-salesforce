@@ -3,9 +3,9 @@ flow:
   name: Email_Order
   inputs:
     - user: daniel@rpamf.onmicrosoft.com
-    - sf_username: rpa-demo@microfocus.com
+    - sf_username: ray_ffrench-yewy@force.com
     - sf_password:
-        default: Cloud@123
+        default: 'Welcome14!'
         sensitive: true
   workflow:
     - Get_Authorization_Token:
